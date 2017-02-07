@@ -5,9 +5,9 @@
 ####Team mem 3- Megha
 Team mem 4 - S.Maitra
 
-IoT workshop on 6th February ,2016
+*IoT workshop on 6th February ,2016
 
 
-Workshop content changed on 6/2/2017 at 2:00 pm
+_Workshop content changed on 6/2/2017 at 2:00 pm
 
-We are all team members
+**We are all team members**
